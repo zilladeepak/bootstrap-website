@@ -8,15 +8,6 @@ This project demonstrates how Bootstrap components and utility classes can be us
     <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Website-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Live Demo">
   </a>
 </p>
-
----
-
-## 📸 Project Preview
-
-<p align="center">
-  <img src="./img/project-preview.png" alt="Bootstrap Website Preview" width="100%">
-</p>
-
 ---
 
 ## 📌 Features
