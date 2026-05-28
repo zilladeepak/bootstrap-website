@@ -1,25 +1,34 @@
 # 🌐 Bootstrap Website
 
-A modern and responsive website built using **Bootstrap**, **HTML**, **CSS**, and **JavaScript**.  
-This project showcases how Bootstrap components and utility classes can be used to create clean, mobile-friendly, and professional-looking web pages quickly and efficiently.
+A modern and responsive website built using **Bootstrap**, **HTML**, **CSS**.  
+This project demonstrates how Bootstrap components and utility classes can be used to create clean, responsive, and professional-looking web pages with minimal custom code.
 
 <p align="center">
   <a href="https://bootstrap-website-tau.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Live Demo">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Visit%20Website-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Live Demo">
   </a>
+</p>
+
+---
+
+## 📸 Project Preview
+
+<p align="center">
+  <img src="./img/project-preview.png" alt="Bootstrap Website Preview" width="100%">
 </p>
 
 ---
 
 ## 📌 Features
 
-- Fully responsive design
-- Modern Bootstrap layout
-- Navigation bar and hero section
-- Reusable Bootstrap components
-- Clean UI and structured sections
-- Mobile-friendly interface
-- Fast and lightweight project
+- Fully responsive layout
+- Built with Bootstrap 5
+- Clean and modern user interface
+- Responsive navigation bar
+- Hero and content sections
+- Bootstrap cards and components
+- Mobile-friendly design
+- Easy-to-understand project structure
 
 ---
 
@@ -27,7 +36,7 @@ This project showcases how Bootstrap components and utility classes can be used 
 
 - **HTML5** — Website structure
 - **CSS3** — Custom styling
-- **Bootstrap 5** — Responsive framework and components
+- **Bootstrap 5** — UI framework and responsive grid system
 - **JavaScript** — Interactive functionality
 
 ---
@@ -37,7 +46,7 @@ This project showcases how Bootstrap components and utility classes can be used 
 ```bash
 bootstrap-website/
 │
+├── img/              # Images and assets
+├── README.md         # Project documentation
 ├── index.html        # Main HTML file
-├── style.css         # Custom styling
-├── script.js         # JavaScript functionality
-└── README.md         # Project documentation
+└── style.css         # Custom styling
