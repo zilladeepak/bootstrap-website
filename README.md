@@ -29,7 +29,6 @@ This project demonstrates how Bootstrap components and utility classes can be us
 - **HTML5** — Website structure
 - **CSS3** — Custom styling
 - **Bootstrap 5** — UI framework and responsive grid system
-- **JavaScript** — Interactive functionality
 
 ---
 
